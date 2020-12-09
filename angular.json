@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "credit-card"
+    }
+  },
+  "defaultProject": "credit-card",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
